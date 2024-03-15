@@ -30,6 +30,7 @@
   --orange: hsl(31, 100%, 51%);
   --white: hsl(0, 0%, 100%);
   --onyx: hsl(240, 5%, 26%);
+  --br: hsl(189, 100%, 47%);
 
   /**
    * typography
@@ -611,7 +612,7 @@ body.active { overflow-y: hidden; }
   width: 100%;
   border-radius: 4px;
   box-shadow: 0 2px 4px hsla(0, 0%, 0%, 0.2);
-}
+} 
 
 
 

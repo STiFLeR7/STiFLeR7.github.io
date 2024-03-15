@@ -49,4 +49,5 @@ window.addEventListener("scroll", function () {
     $('.title').toggleClass('active');
     $('nav').toggleClass('active');
   });
+  
 })
