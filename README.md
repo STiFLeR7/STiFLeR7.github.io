@@ -1,19 +1,17 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/gamex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/gamex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/gamex?style=social)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BK9_voy6VXU?style=social)](https://youtu.be/BK9_voy6VXU)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/BK9_voy6VXU?style=social)](www.youtube.com/@NEOeSportsOfficial0003)
 
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./assets/images/logo.png" />
 
-  <h2 align="center">GameX - Gaming website</h2>
+  <h2 align="center">Neo Esports Club </h2>
 
-  GameX is a fully responsive eSports gaming website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Neo Esports is a official eSports and gaming club of NIMS University , <br />our club has grown into a hub for players of all skill levels to connect, compete, and improve. Whether you're a casual player or a seasoned professional, there's a place for you here at **Neo-Esports**.
 
   <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
 
