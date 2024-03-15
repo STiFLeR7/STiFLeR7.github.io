@@ -44,5 +44,9 @@ window.addEventListener("scroll", function () {
   } else {
     goTopBtn.classList.remove("active");
   }
-
+  $('button').click(function(){
+    $('button').toggleClass('active');
+    $('.title').toggleClass('active');
+    $('nav').toggleClass('active');
+  });
 })
