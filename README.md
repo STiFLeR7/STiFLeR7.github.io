@@ -13,7 +13,7 @@
 
   Neo Esports is a official eSports and gaming club of NIMS University , <br />our club has grown into a hub for players of all skill levels to connect, compete, and improve. Whether you're a casual player or a seasoned professional, there's a place for you here at **Neo-Esports**.
 
-  <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://neoesports.live"><strong>➥ Live Demo</strong></a>
 
 </div>
 
